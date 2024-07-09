@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno texto sobre como gatos vão dominar o mundo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao chat gpt um ebook com 3 páginas sobre como gatos irão dominar o mundo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Ascensão dos gatos](/entrega/a_ascencao_dos_gatos.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -40,9 +40,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Ascensão dos gatos](/entrega/a_ascencao_dos_gatos.pdf)
 
 ## Links Interessantes
 
